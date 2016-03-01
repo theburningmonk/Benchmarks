@@ -1,0 +1,23 @@
+type project
+owners
+    Yan Cui
+authors 
+    Yan Cui
+projectUrl
+    http://github.com/theburningmonk/Benchmarks
+iconUrl
+    https://raw.githubusercontent.com/theburningmonk/Benchmarks/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/theburningmonk/Benchmarks/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    benchmark
+summary
+    A collection of my benchmarks
+description
+    A collection of my benchmarks
+
+
